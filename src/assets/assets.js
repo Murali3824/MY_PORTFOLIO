@@ -1,6 +1,6 @@
 import profileimage from './profileimage.jpg'
 import profileimage2 from './profileimage.jpg'
-import profilepic from './profilepic.png'
+import profilepic from './Profilepic.png'
 import resume from'./Resume.pdf'
 import fullstackproject1 from './project1.png'
 import fullstackproject2 from './project2.png'
