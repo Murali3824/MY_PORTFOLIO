@@ -54,7 +54,7 @@ const Hero = () => {
 
   return (
     <section id="home" className="min-h-screen flex items-center justify-center relative">
-      {/* <SocialLinks /> */}
+      <SocialLinks />
       <div className="flex flex-col items-center max-w-6xl 2xl:max-w-full mt-20 2xl:mt-0 mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex flex-col lg:flex-row mb-20 lg:mb-0 gap-12 lg:gap-5 items-center">
           {/* Text Content */}
